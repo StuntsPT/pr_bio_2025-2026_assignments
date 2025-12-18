@@ -1,0 +1,31 @@
+
+            .',;::::;,'.                 henriquesilva@vbox
+         .';:cccccccccccc:;,.             ------------------
+      .;cccccccccccccccccccccc;.          OS: Fedora Linux 43 (Workstation Edit4
+    .:cccccccccccccccccccccccccc:.        Host: VirtualBox (1.2)
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      Kernel: Linux 6.17.1-300.fc43.x86_64
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     Uptime: 8 mins
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    Packages: 1986 (rpm)
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,    Shell: bash 5.3.0
+:cccccccccccccc;MMM.;cccccccccccccccc:    Display (Ecrã desconhecido): 1920x936z
+:ccccccc;oxOOOo;MMM000k.;cccccccccccc:    DE: GNOME 49.1
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    WM: Mutter (Wayland)
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'    WM Theme: Adwaita
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Theme: Adwaita [GTK2/3/4]
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      Icons: Adwaita [GTK2/3/4]
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       Font: Adwaita Sans (11pt) [GTK2/3/4]
+cccccccc;.:odl:.;cccccccccccccc:,.        Cursor: Adwaita (24px)
+ccccccccccccccccccccccccccccc:'.          Terminal: Ptyxis 49.1
+:ccccccccccccccccccccccc:;,..             Terminal Font: Adwaita Mono (11pt)
+ ':cccccccccccccccc::;,.                  CPU: 13th Gen Intel(R) Core(TM) i5-13z
+                                          GPU: VMware SVGA II Adapter
+                                          Memory: 1.80 GiB / 3.81 GiB (47%)
+                                          Swap: 0 B / 3.81 GiB (0%)
+                                          Disk (/): 3.59 GiB / 24.66 GiB (15%) s
+                                          Local IP (enp0s3): 10.0.2.15/24
+                                          Battery (1): 97% [Charging, AC Connec]
+                                          Locale: pt_PT.UTF-8
+
+                                                                  
+                                                                  
+
