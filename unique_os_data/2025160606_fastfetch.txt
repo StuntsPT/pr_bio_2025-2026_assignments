@@ -1,0 +1,48 @@
+          ,...,
+     .,:lloooooc;.
+   ,ool'     oo,;oo:
+ .lo'        oo.   oo:
+.oo.         oo.    oo:
+:ol          oo.    'oo
+:oo         .oo.    .oo.
+.oooooooooooooo.    .oo.
+ ;oo.               .oo.
+  'oo,              .oo.
+    "ooc,',,,,,,,,,,:ooc,,,,,,,,,,,
+       ':cooooooooooooooooooooooooool;.
+                    .oo.             .oo;
+                    .oo.               .oo.
+                    .oo.    'oooooooooo:ooo.
+                    .oo.    'oo.         col
+                    .oo'    'oo          col
+                     coo    'oo          oo'
+                      coc   'oo        .lo,
+                       `oo, 'oo      .:oo
+                         'ooooc,, ,:lol
+                            `''"clc"'[1G[21A[48Cpedro@localhost
+[48C---------------
+[48COS: openSUSE Tumbleweed x86_64
+[48CHost: VirtualBox (1.2)
+[48CKernel: Linux 6.17.6-1-default
+[48CUptime: 17 mins
+[48CPackages: 1390 (rpm)
+[48CShell: bash 5.3.3
+[48CDisplay (Virtual-1): 800x600, 60 Hz
+[48CDE: ICEWM
+[48CWM: IceWM 3.9.0 (linux-gnu/x86_64) (X11)
+[48CTheme: Adwaita [GTK3]
+[48CIcons: Adwaita [GTK3]
+[48CCursor: Adwaita
+[48CTerminal: xterm 402
+[48CTerminal Font: fixed (8.0pt)
+[48CCPU: AMD Ryzen 5 5600H (6) @ 3.29 GHz
+[48CGPU: VMware SVGA II Adapter
+[48CMemory: 583.83 MiB / 3.23 GiB (18%)
+[48CSwap: 0 B / 2.00 GiB (0%)
+[48CDisk (/): 3.90 GiB / 27.62 GiB (14%) - btrfs
+[48CLocal IP (enp0s3): 10.0.2.15/24
+[48CBattery (1): 44% [Discharging]
+[48CLocale: pt_PT.UTF-8
+[48C
+[48C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[48C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m

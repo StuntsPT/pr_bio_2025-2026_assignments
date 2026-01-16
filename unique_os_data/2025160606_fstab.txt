@@ -1,0 +1,12 @@
+UUID=5274e73d-cfe1-4973-a628-ad0d1cecd236  /                       btrfs  defaults                      0  0
+UUID=5274e73d-cfe1-4973-a628-ad0d1cecd236  /var                    btrfs  subvol=/@/var                 0  0
+UUID=5274e73d-cfe1-4973-a628-ad0d1cecd236  /usr/local              btrfs  subvol=/@/usr/local           0  0
+UUID=5274e73d-cfe1-4973-a628-ad0d1cecd236  /srv                    btrfs  subvol=/@/srv                 0  0
+UUID=5274e73d-cfe1-4973-a628-ad0d1cecd236  /root                   btrfs  subvol=/@/root                0  0
+UUID=5274e73d-cfe1-4973-a628-ad0d1cecd236  /opt                    btrfs  subvol=/@/opt                 0  0
+UUID=5274e73d-cfe1-4973-a628-ad0d1cecd236  /home                   btrfs  subvol=/@/home                0  0
+UUID=5274e73d-cfe1-4973-a628-ad0d1cecd236  /boot/grub2/x86_64-efi  btrfs  subvol=/@/boot/grub2/x86_64-efi  0  0
+UUID=5274e73d-cfe1-4973-a628-ad0d1cecd236  /boot/grub2/i386-pc     btrfs  subvol=/@/boot/grub2/i386-pc  0  0
+UUID=036b8858-9d51-4106-b212-664317253e47  swap                    swap   defaults                      0  0
+UUID=5274e73d-cfe1-4973-a628-ad0d1cecd236  /.snapshots             btrfs  subvol=/@/.snapshots          0  0
+UUID=9D05-5A50                             /boot/efi               vfat   utf8                          0  2
