@@ -1,0 +1,47 @@
+             .',;::::;,'.
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.
+    .:cccccccccccccccccccccccccc:.
+  .;ccccccccccccc;.:dddl:.;ccccccc;.
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,
+:cccccccccccccc;MMM.;cccccccccccccccc:
+:ccccccc;oxOOOo;MMM000k.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;
+cccccc;dNMWXXXWM0:;cccccccccccccc:,
+cccccccc;.:odl:.;cccccccccccccc:,.
+ccccccccccccccccccccccccccccc:'.
+:ccccccccccccccccccccccc:;,..
+ ':cccccccccccccccc::;,.[1G[18A[42Cemilandalopes@fedora
+[42C--------------------
+[42COS: Fedora Linux 43 (Workstation Edition) x86_64
+[42CHost: VirtualBox (1.2)
+[42CKernel: Linux 6.17.1-300.fc43.x86_64
+[42CUptime: 7 mins
+[42CPackages: 1986 (rpm)
+[42CShell: bash 5.3.0
+[42CDisplay (Ecrã desconhecido): 1366x643 @ 60 Hz
+[42CDE: GNOME 49.1
+[42CWM: Mutter (Wayland)
+[42CWM Theme: Adwaita
+[42CTheme: Adwaita [GTK2/3/4]
+[42CIcons: Adwaita [GTK2/3/4]
+[42CFont: Adwaita Sans (11pt) [GTK2/3/4]
+[42CCursor: Adwaita (24px)
+[42CTerminal: Ptyxis 49.1
+[42CTerminal Font: Adwaita Mono (11pt)
+[42CCPU: Intel(R) Core(TM) i5-8250U (4) @ 1.80 GHz
+[42CGPU: VMware SVGA II Adapter
+[42CMemory: 1.81 GiB / 3.81 GiB (47%)
+[42CSwap: 144.00 KiB / 3.81 GiB (0%)
+[42CDisk (/): 5.09 GiB / 13.00 GiB (39%) - btrfs
+[42CLocal IP (enp0s3): 10.0.2.15/24
+[42CBattery (1): 100% [AC Connected]
+[42CLocale: pt_PT.UTF-8
+[42C
+[42C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[42C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
