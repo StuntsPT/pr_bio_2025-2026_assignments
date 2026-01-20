@@ -1,0 +1,18 @@
+>sequencia inicial com 4 ambiguidades
+ATGRTCSGTYCGWAGCATTAA
+>desambiguidade n1
+ATGATCGGTTCGAAGCATTAA
+>desambiguidade n2
+ATGGTCGGTCCGTAGCATTAA
+>desambiguidade n3
+ATGATCCGTCCGAAGCATTAA
+>reverso, usando a desambiguidade n2
+AATTACGATGCCTGGCTGGTA
+>complemento DNA
+TTAATGCTACGGACCGACCAT
+>transcrição para RNA
+AUGGUCGGUCCGUAGCAUUAA
+>cadeia de aminoácidos
+MetValGlyProstopHisstop
+>aminoácidos com codificação IUPAC
+MVGP*H*
