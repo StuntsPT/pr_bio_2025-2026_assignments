@@ -1,0 +1,49 @@
+..............
+            ..,;:ccc,.
+          ......''';lxO.
+.....''''..........,:ld;
+           .';;;:::;,,.x,
+      ..'''.            0Xxoc:,.  ...
+  ....                ,ONkc;,;cokOdc',.
+ .                   OMo           ':ddo.
+                    dMc               :OO;
+                    0M.                 .:o.
+                    ;Wd
+                     ;XO,
+                       ,d0Odlc;,..
+                           ..',;:cdOOd::,.
+                                    .:d;.':;.
+                                       'd,  .'
+                                         ;l   ..
+                                          .o
+                                            c
+                                            .'
+                                             .[1G[20A[52Cedudias@kali
+[52C------------
+[52COS: Kali GNU/Linux Rolling x86_64
+[52CHost: VirtualBox (1.2)
+[52CKernel: Linux 6.16.8+kali-amd64
+[52CUptime: 57 mins
+[52CPackages: 2983 (dpkg)
+[52CShell: zsh 5.9
+[52CDisplay (Virtual1): 1920x1200, 60 Hz
+[52CDE: Xfce4 4.20
+[52CWM: Xfwm4 (X11)
+[52CWM Theme: Kali-Dark
+[52CTheme: Fusion [Qt], Kali-Dark [GTK2/3/4]
+[52CIcons: Flat-Remix-Blue-Dark [Qt], Flat-Remix-Blue-Dark [GTK2/3/4]
+[52CFont: Cantarell (11pt) [GTK2/3/4]
+[52CCursor: Adwaita (24px)
+[52CTerminal: qterminal 2.2.1
+[52CTerminal Font: FiraCode (10pt)
+[52CCPU: 13th Gen Intel(R) Core(TM) i5-1335U (7) @ 2.50 GHz
+[52CGPU: VMware SVGA II Adapter
+[52CMemory: 2.53 GiB / 10.42 GiB (24%)
+[52CSwap: 0 B / 1.33 GiB (0%)
+[52CDisk (/): 20.28 GiB / 23.13 GiB (88%) - ext4
+[52CLocal IP (eth0): 10.0.2.15/24
+[52CBattery (1): 63% [Charging, AC Connected]
+[52CLocale: en_US.UTF-8
+[52C
+[52C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[52C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m

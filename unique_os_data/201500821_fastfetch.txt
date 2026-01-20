@@ -1,0 +1,44 @@
+        _,met$$$$$gg.
+     ,g$$$$$$$$$$$$$$$P.
+   ,g$$P""       """Y$$.".
+  ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,"'   .    $$$
+ $$P      d     ,    $$P
+ $$:      $   -    ,d$$'
+ $$;      Y._   _,d'
+ Y$$.    `.`"Y$$$$P"'
+ `$$b      "-.__
+  `Y$$b
+   `Y$$.
+     `$$b.
+       `Y$$b.
+         `"Y$b._
+             `""""[1G[16A[31Cjoana@HomeworkDebian
+[31C--------------------
+[31COS: Debian GNU/Linux 13 (trixie) x86_64
+[31CHost: VirtualBox (1.2)
+[31CKernel: Linux 6.12.48+deb13-amd64
+[31CUptime: 11 mins
+[31CPackages: 3063 (dpkg)
+[31CShell: bash 5.2.37
+[31CDisplay (Virtual1): 1600x900 @ 60 Hz
+[31CDE: KDE Plasma 6.3.6
+[31CWM: KWin (X11)
+[31CWM Theme: Breeze
+[31CTheme: Breeze (Dark) [Qt], Breeze-Dark [GTK2], Breeze [GTK3]
+[31CIcons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
+[31CFont: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
+[31CCursor: breeze (24px)
+[31CTerminal: konsole 25.4.2
+[31CCPU: AMD Ryzen 7 4700U (8) @ 2.00 GHz
+[31CGPU: VMware SVGA II Adapter
+[31CMemory: 2.34 GiB / 3.83 GiB (61%)
+[31CSwap: 268.00 KiB / 1.08 GiB (0%)
+[31CDisk (/): 10.43 GiB / 18.46 GiB (57%) - ext4
+[31CLocal IP (enp0s3): 10.0.2.15/24
+[31CBattery (1): 47% [Charging, AC Connected]
+[31CLocale: en_GB.UTF-8
+[31C
+[31C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[31C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
