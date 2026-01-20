@@ -1,0 +1,29 @@
+>sequencia original com ambiguidade IUPAC
+ATGRCTAYGCSATWCGTACCA
+
+
+Sequencias não ambíguas:
+>Sequencia 1
+ATGACTACGGCATACGTACCA
+
+>Sequencia 2
+ATGGCTATGCCATTCGTACCA
+
+>Sequencia 3
+ATGACTATGGCATTCGTACCA
+
+>Sequencia1 escolhida:
+ATGACTACGGCATACGTACCA
+
+>reverso da sequencia escolhida:
+ACCATGCATACGGCATCAGTAS
+
+>Complemento da sequencia escolhida:
+TACTGATGCCGTATGCATGGT
+
+>Complemento reverso da sequencia escolhida:
+ACCATGCATACGGCATCAGTA
+ 
+>Cadeia de aminoacidos segundo IUPAC:
+TMHTASV
+
